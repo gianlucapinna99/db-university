@@ -1,6 +1,6 @@
 # DIAGRAM
 
-![Diagram](./diagram.png)
+![Diagram](diagram.png)
 
 # Contare quanti iscritti ci sono stati ogni anno
 ```sql
